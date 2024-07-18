@@ -1,2 +1,2 @@
 # PythonGames
-Creating games Using  Python with Pygame module
+Created games Using  Python with Pygame module
